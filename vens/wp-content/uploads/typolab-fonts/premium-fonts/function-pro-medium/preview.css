@@ -1,0 +1,2328 @@
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: afrikaans */
+@font-face {
+    font-family: 'functioncaps_medium';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functioncaps_medium_afrikaans/FunctionCaps-Medium-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functioncaps_medium_afrikaans/FunctionCaps-Medium-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functioncaps_medium_afrikaans/FunctionCaps-Medium-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functioncaps_medium_afrikaans/FunctionCaps-Medium-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functioncaps_medium_afrikaans/FunctionCaps-Medium-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functioncaps_medium_afrikaans/FunctionCaps-Medium-webfont.svg#function_capsmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+200-203, U+206-207, U+212, U+219, U+232-235, U+238-239, U+244, U+251, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: afrikaans */
+@font-face {
+    font-family: 'functionpro_medium';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_medium_afrikaans/FunctionPro-Medium-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_medium_afrikaans/FunctionPro-Medium-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_medium_afrikaans/FunctionPro-Medium-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_medium_afrikaans/FunctionPro-Medium-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_medium_afrikaans/FunctionPro-Medium-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_medium_afrikaans/FunctionPro-Medium-webfont.svg#function_promedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+200-203, U+206-207, U+212, U+219, U+232-235, U+238-239, U+244, U+251, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: afrikaans */
+@font-face {
+    font-family: 'functionpro_mediumcondensed';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumcondensed_afrikaans/FunctionPro-Condensed-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumcondensed_afrikaans/FunctionPro-Condensed-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumcondensed_afrikaans/FunctionPro-Condensed-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumcondensed_afrikaans/FunctionPro-Condensed-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumcondensed_afrikaans/FunctionPro-Condensed-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumcondensed_afrikaans/FunctionPro-Condensed-webfont.svg#function_promedium_condensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+200-203, U+206-207, U+212, U+219, U+232-235, U+238-239, U+244, U+251, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: afrikaans */
+@font-face {
+    font-family: 'functionpro_mediumcondensedoblique';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumcondensedoblique_afrikaans/FunctionPro-CondensedOblique-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumcondensedoblique_afrikaans/FunctionPro-CondensedOblique-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumcondensedoblique_afrikaans/FunctionPro-CondensedOblique-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumcondensedoblique_afrikaans/FunctionPro-CondensedOblique-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumcondensedoblique_afrikaans/FunctionPro-CondensedOblique-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumcondensedoblique_afrikaans/FunctionPro-CondensedOblique-webfont.svg#function_proMdCnOb') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+200-203, U+206-207, U+212, U+219, U+232-235, U+238-239, U+244, U+251, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: afrikaans */
+@font-face {
+    font-family: 'functionpro_mediumoblique';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumoblique_afrikaans/FunctionPro-MediumOblique-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumoblique_afrikaans/FunctionPro-MediumOblique-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumoblique_afrikaans/FunctionPro-MediumOblique-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumoblique_afrikaans/FunctionPro-MediumOblique-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumoblique_afrikaans/FunctionPro-MediumOblique-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumoblique_afrikaans/FunctionPro-MediumOblique-webfont.svg#function_promedium_oblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+200-203, U+206-207, U+212, U+219, U+232-235, U+238-239, U+244, U+251, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: afrikaans */
+@font-face {
+    font-family: 'functionpro_mediumstencil';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumstencil_afrikaans/FunctionPro-Stencil-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumstencil_afrikaans/FunctionPro-Stencil-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumstencil_afrikaans/FunctionPro-Stencil-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumstencil_afrikaans/FunctionPro-Stencil-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumstencil_afrikaans/FunctionPro-Stencil-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/afrikaans/functionpro_mediumstencil_afrikaans/FunctionPro-Stencil-webfont.svg#function_promedium_stencil') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+200-203, U+206-207, U+212, U+219, U+232-235, U+238-239, U+244, U+251, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: english */
+@font-face {
+    font-family: 'functioncaps_medium';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functioncaps_medium_english/FunctionCaps-Medium-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functioncaps_medium_english/FunctionCaps-Medium-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functioncaps_medium_english/FunctionCaps-Medium-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functioncaps_medium_english/FunctionCaps-Medium-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functioncaps_medium_english/FunctionCaps-Medium-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functioncaps_medium_english/FunctionCaps-Medium-webfont.svg#function_capsmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+169, U+174, U+180, U+2019, U+201C-201E, U+8211-8212, U+8216-8217, U+8220-8221, U+8226, U+8230, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: english */
+@font-face {
+    font-family: 'functionpro_medium';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_medium_english/FunctionPro-Medium-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_medium_english/FunctionPro-Medium-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_medium_english/FunctionPro-Medium-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_medium_english/FunctionPro-Medium-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_medium_english/FunctionPro-Medium-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_medium_english/FunctionPro-Medium-webfont.svg#function_promedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+169, U+174, U+180, U+2019, U+201C-201E, U+8211-8212, U+8216-8217, U+8220-8221, U+8226, U+8230, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: english */
+@font-face {
+    font-family: 'functionpro_mediumcondensed';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumcondensed_english/FunctionPro-Condensed-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumcondensed_english/FunctionPro-Condensed-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumcondensed_english/FunctionPro-Condensed-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumcondensed_english/FunctionPro-Condensed-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumcondensed_english/FunctionPro-Condensed-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumcondensed_english/FunctionPro-Condensed-webfont.svg#function_promedium_condensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+169, U+174, U+180, U+2019, U+201C-201E, U+8211-8212, U+8216-8217, U+8220-8221, U+8226, U+8230, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: english */
+@font-face {
+    font-family: 'functionpro_mediumcondensedoblique';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumcondensedoblique_english/FunctionPro-CondensedOblique-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumcondensedoblique_english/FunctionPro-CondensedOblique-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumcondensedoblique_english/FunctionPro-CondensedOblique-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumcondensedoblique_english/FunctionPro-CondensedOblique-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumcondensedoblique_english/FunctionPro-CondensedOblique-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumcondensedoblique_english/FunctionPro-CondensedOblique-webfont.svg#function_proMdCnOb') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+169, U+174, U+180, U+2019, U+201C-201E, U+8211-8212, U+8216-8217, U+8220-8221, U+8226, U+8230, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: english */
+@font-face {
+    font-family: 'functionpro_mediumoblique';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumoblique_english/FunctionPro-MediumOblique-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumoblique_english/FunctionPro-MediumOblique-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumoblique_english/FunctionPro-MediumOblique-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumoblique_english/FunctionPro-MediumOblique-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumoblique_english/FunctionPro-MediumOblique-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumoblique_english/FunctionPro-MediumOblique-webfont.svg#function_promedium_oblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+169, U+174, U+180, U+2019, U+201C-201E, U+8211-8212, U+8216-8217, U+8220-8221, U+8226, U+8230, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: english */
+@font-face {
+    font-family: 'functionpro_mediumstencil';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumstencil_english/FunctionPro-Stencil-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumstencil_english/FunctionPro-Stencil-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumstencil_english/FunctionPro-Stencil-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumstencil_english/FunctionPro-Stencil-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumstencil_english/FunctionPro-Stencil-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/english/functionpro_mediumstencil_english/FunctionPro-Stencil-webfont.svg#function_promedium_stencil') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+169, U+174, U+180, U+2019, U+201C-201E, U+8211-8212, U+8216-8217, U+8220-8221, U+8226, U+8230, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: french */
+@font-face {
+    font-family: 'functioncaps_medium';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functioncaps_medium_french/FunctionCaps-Medium-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functioncaps_medium_french/FunctionCaps-Medium-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functioncaps_medium_french/FunctionCaps-Medium-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functioncaps_medium_french/FunctionCaps-Medium-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functioncaps_medium_french/FunctionCaps-Medium-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functioncaps_medium_french/FunctionCaps-Medium-webfont.svg#function_capsmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+192, U+194, U+198-203, U+206-207, U+212, U+217, U+219-220, U+224, U+226, U+230-235, U+238-239, U+244, U+249, U+251-252, U+255, U+338-339, U+376, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: french */
+@font-face {
+    font-family: 'functionpro_medium';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_medium_french/FunctionPro-Medium-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_medium_french/FunctionPro-Medium-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_medium_french/FunctionPro-Medium-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_medium_french/FunctionPro-Medium-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_medium_french/FunctionPro-Medium-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_medium_french/FunctionPro-Medium-webfont.svg#function_promedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+192, U+194, U+198-203, U+206-207, U+212, U+217, U+219-220, U+224, U+226, U+230-235, U+238-239, U+244, U+249, U+251-252, U+255, U+338-339, U+376, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: french */
+@font-face {
+    font-family: 'functionpro_mediumcondensed';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumcondensed_french/FunctionPro-Condensed-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumcondensed_french/FunctionPro-Condensed-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumcondensed_french/FunctionPro-Condensed-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumcondensed_french/FunctionPro-Condensed-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumcondensed_french/FunctionPro-Condensed-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumcondensed_french/FunctionPro-Condensed-webfont.svg#function_promedium_condensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+192, U+194, U+198-203, U+206-207, U+212, U+217, U+219-220, U+224, U+226, U+230-235, U+238-239, U+244, U+249, U+251-252, U+255, U+338-339, U+376, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: french */
+@font-face {
+    font-family: 'functionpro_mediumcondensedoblique';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumcondensedoblique_french/FunctionPro-CondensedOblique-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumcondensedoblique_french/FunctionPro-CondensedOblique-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumcondensedoblique_french/FunctionPro-CondensedOblique-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumcondensedoblique_french/FunctionPro-CondensedOblique-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumcondensedoblique_french/FunctionPro-CondensedOblique-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumcondensedoblique_french/FunctionPro-CondensedOblique-webfont.svg#function_proMdCnOb') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+192, U+194, U+198-203, U+206-207, U+212, U+217, U+219-220, U+224, U+226, U+230-235, U+238-239, U+244, U+249, U+251-252, U+255, U+338-339, U+376, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: french */
+@font-face {
+    font-family: 'functionpro_mediumoblique';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumoblique_french/FunctionPro-MediumOblique-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumoblique_french/FunctionPro-MediumOblique-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumoblique_french/FunctionPro-MediumOblique-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumoblique_french/FunctionPro-MediumOblique-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumoblique_french/FunctionPro-MediumOblique-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumoblique_french/FunctionPro-MediumOblique-webfont.svg#function_promedium_oblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+192, U+194, U+198-203, U+206-207, U+212, U+217, U+219-220, U+224, U+226, U+230-235, U+238-239, U+244, U+249, U+251-252, U+255, U+338-339, U+376, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: french */
+@font-face {
+    font-family: 'functionpro_mediumstencil';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumstencil_french/FunctionPro-Stencil-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumstencil_french/FunctionPro-Stencil-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumstencil_french/FunctionPro-Stencil-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumstencil_french/FunctionPro-Stencil-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumstencil_french/FunctionPro-Stencil-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/french/functionpro_mediumstencil_french/FunctionPro-Stencil-webfont.svg#function_promedium_stencil') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+192, U+194, U+198-203, U+206-207, U+212, U+217, U+219-220, U+224, U+226, U+230-235, U+238-239, U+244, U+249, U+251-252, U+255, U+338-339, U+376, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: german */
+@font-face {
+    font-family: 'functioncaps_medium';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functioncaps_medium_german/FunctionCaps-Medium-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functioncaps_medium_german/FunctionCaps-Medium-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functioncaps_medium_german/FunctionCaps-Medium-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functioncaps_medium_german/FunctionCaps-Medium-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functioncaps_medium_german/FunctionCaps-Medium-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functioncaps_medium_german/FunctionCaps-Medium-webfont.svg#function_capsmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+196, U+214, U+220, U+223, U+228, U+246, U+252, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: german */
+@font-face {
+    font-family: 'functionpro_medium';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_medium_german/FunctionPro-Medium-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_medium_german/FunctionPro-Medium-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_medium_german/FunctionPro-Medium-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_medium_german/FunctionPro-Medium-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_medium_german/FunctionPro-Medium-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_medium_german/FunctionPro-Medium-webfont.svg#function_promedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+196, U+214, U+220, U+223, U+228, U+246, U+252, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: german */
+@font-face {
+    font-family: 'functionpro_mediumcondensed';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumcondensed_german/FunctionPro-Condensed-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumcondensed_german/FunctionPro-Condensed-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumcondensed_german/FunctionPro-Condensed-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumcondensed_german/FunctionPro-Condensed-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumcondensed_german/FunctionPro-Condensed-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumcondensed_german/FunctionPro-Condensed-webfont.svg#function_promedium_condensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+196, U+214, U+220, U+223, U+228, U+246, U+252, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: german */
+@font-face {
+    font-family: 'functionpro_mediumcondensedoblique';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumcondensedoblique_german/FunctionPro-CondensedOblique-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumcondensedoblique_german/FunctionPro-CondensedOblique-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumcondensedoblique_german/FunctionPro-CondensedOblique-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumcondensedoblique_german/FunctionPro-CondensedOblique-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumcondensedoblique_german/FunctionPro-CondensedOblique-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumcondensedoblique_german/FunctionPro-CondensedOblique-webfont.svg#function_proMdCnOb') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+196, U+214, U+220, U+223, U+228, U+246, U+252, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: german */
+@font-face {
+    font-family: 'functionpro_mediumoblique';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumoblique_german/FunctionPro-MediumOblique-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumoblique_german/FunctionPro-MediumOblique-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumoblique_german/FunctionPro-MediumOblique-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumoblique_german/FunctionPro-MediumOblique-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumoblique_german/FunctionPro-MediumOblique-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumoblique_german/FunctionPro-MediumOblique-webfont.svg#function_promedium_oblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+196, U+214, U+220, U+223, U+228, U+246, U+252, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: german */
+@font-face {
+    font-family: 'functionpro_mediumstencil';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumstencil_german/FunctionPro-Stencil-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumstencil_german/FunctionPro-Stencil-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumstencil_german/FunctionPro-Stencil-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumstencil_german/FunctionPro-Stencil-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumstencil_german/FunctionPro-Stencil-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/german/functionpro_mediumstencil_german/FunctionPro-Stencil-webfont.svg#function_promedium_stencil') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+196, U+214, U+220, U+223, U+228, U+246, U+252, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: latin */
+@font-face {
+    font-family: 'functioncaps_medium';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functioncaps_medium_latinbasic/FunctionCaps-Medium-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functioncaps_medium_latinbasic/FunctionCaps-Medium-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functioncaps_medium_latinbasic/FunctionCaps-Medium-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functioncaps_medium_latinbasic/FunctionCaps-Medium-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functioncaps_medium_latinbasic/FunctionCaps-Medium-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functioncaps_medium_latinbasic/FunctionCaps-Medium-webfont.svg#function_capsmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: latin */
+@font-face {
+    font-family: 'functionpro_medium';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_medium_latinbasic/FunctionPro-Medium-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_medium_latinbasic/FunctionPro-Medium-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_medium_latinbasic/FunctionPro-Medium-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_medium_latinbasic/FunctionPro-Medium-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_medium_latinbasic/FunctionPro-Medium-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_medium_latinbasic/FunctionPro-Medium-webfont.svg#function_promedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: latin */
+@font-face {
+    font-family: 'functionpro_mediumcondensed';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumcondensed_latinbasic/FunctionPro-Condensed-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumcondensed_latinbasic/FunctionPro-Condensed-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumcondensed_latinbasic/FunctionPro-Condensed-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumcondensed_latinbasic/FunctionPro-Condensed-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumcondensed_latinbasic/FunctionPro-Condensed-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumcondensed_latinbasic/FunctionPro-Condensed-webfont.svg#function_promedium_condensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: latin */
+@font-face {
+    font-family: 'functionpro_mediumcondensedoblique';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumcondensedoblique_latinbasic/FunctionPro-CondensedOblique-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumcondensedoblique_latinbasic/FunctionPro-CondensedOblique-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumcondensedoblique_latinbasic/FunctionPro-CondensedOblique-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumcondensedoblique_latinbasic/FunctionPro-CondensedOblique-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumcondensedoblique_latinbasic/FunctionPro-CondensedOblique-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumcondensedoblique_latinbasic/FunctionPro-CondensedOblique-webfont.svg#function_proMdCnOb') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: latin */
+@font-face {
+    font-family: 'functionpro_mediumoblique';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumoblique_latinbasic/FunctionPro-MediumOblique-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumoblique_latinbasic/FunctionPro-MediumOblique-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumoblique_latinbasic/FunctionPro-MediumOblique-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumoblique_latinbasic/FunctionPro-MediumOblique-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumoblique_latinbasic/FunctionPro-MediumOblique-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumoblique_latinbasic/FunctionPro-MediumOblique-webfont.svg#function_promedium_oblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: latin */
+@font-face {
+    font-family: 'functionpro_mediumstencil';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumstencil_latinbasic/FunctionPro-Stencil-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumstencil_latinbasic/FunctionPro-Stencil-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumstencil_latinbasic/FunctionPro-Stencil-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumstencil_latinbasic/FunctionPro-Stencil-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumstencil_latinbasic/FunctionPro-Stencil-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin/functionpro_mediumstencil_latinbasic/FunctionPro-Stencil-webfont.svg#function_promedium_stencil') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+@font-face {
+    font-family: 'functioncaps_medium';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functioncaps_medium_latinextreme/FunctionCaps-Medium-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functioncaps_medium_latinextreme/FunctionCaps-Medium-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functioncaps_medium_latinextreme/FunctionCaps-Medium-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functioncaps_medium_latinextreme/FunctionCaps-Medium-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functioncaps_medium_latinextreme/FunctionCaps-Medium-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functioncaps_medium_latinextreme/FunctionCaps-Medium-webfont.svg#function_capsmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+@font-face {
+    font-family: 'functionpro_medium';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_medium_latinextreme/FunctionPro-Medium-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_medium_latinextreme/FunctionPro-Medium-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_medium_latinextreme/FunctionPro-Medium-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_medium_latinextreme/FunctionPro-Medium-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_medium_latinextreme/FunctionPro-Medium-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_medium_latinextreme/FunctionPro-Medium-webfont.svg#function_promedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+@font-face {
+    font-family: 'functionpro_mediumcondensed';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumcondensed_latinextreme/FunctionPro-Condensed-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumcondensed_latinextreme/FunctionPro-Condensed-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumcondensed_latinextreme/FunctionPro-Condensed-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumcondensed_latinextreme/FunctionPro-Condensed-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumcondensed_latinextreme/FunctionPro-Condensed-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumcondensed_latinextreme/FunctionPro-Condensed-webfont.svg#function_promedium_condensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+@font-face {
+    font-family: 'functionpro_mediumcondensedoblique';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumcondensedoblique_latinextreme/FunctionPro-CondensedOblique-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumcondensedoblique_latinextreme/FunctionPro-CondensedOblique-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumcondensedoblique_latinextreme/FunctionPro-CondensedOblique-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumcondensedoblique_latinextreme/FunctionPro-CondensedOblique-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumcondensedoblique_latinextreme/FunctionPro-CondensedOblique-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumcondensedoblique_latinextreme/FunctionPro-CondensedOblique-webfont.svg#function_proMdCnOb') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+@font-face {
+    font-family: 'functionpro_mediumoblique';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumoblique_latinextreme/FunctionPro-MediumOblique-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumoblique_latinextreme/FunctionPro-MediumOblique-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumoblique_latinextreme/FunctionPro-MediumOblique-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumoblique_latinextreme/FunctionPro-MediumOblique-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumoblique_latinextreme/FunctionPro-MediumOblique-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumoblique_latinextreme/FunctionPro-MediumOblique-webfont.svg#function_promedium_oblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+@font-face {
+    font-family: 'functionpro_mediumstencil';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumstencil_latinextreme/FunctionPro-Stencil-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumstencil_latinextreme/FunctionPro-Stencil-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumstencil_latinextreme/FunctionPro-Stencil-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumstencil_latinextreme/FunctionPro-Stencil-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumstencil_latinextreme/FunctionPro-Stencil-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/latin-exteme/functionpro_mediumstencil_latinextreme/FunctionPro-Stencil-webfont.svg#function_promedium_stencil') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: macroman */
+@font-face {
+    font-family: 'functioncaps_medium';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functioncaps_medium_macroman/FunctionCaps-Medium-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functioncaps_medium_macroman/FunctionCaps-Medium-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functioncaps_medium_macroman/FunctionCaps-Medium-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functioncaps_medium_macroman/FunctionCaps-Medium-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functioncaps_medium_macroman/FunctionCaps-Medium-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functioncaps_medium_macroman/FunctionCaps-Medium-webfont.svg#function_capsmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+161-255, U+338-339, U+376, U+710, U+732, U+2019, U+201C-201E, U+8192-8202, U+8208-8212, U+8216-8218, U+8220-8222, U+8226, U+8230, U+8239, U+8249-8250, U+8287, U+8364, U+8482, U+9724, U+64257-64258, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: macroman */
+@font-face {
+    font-family: 'functionpro_medium';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_medium_macroman/FunctionPro-Medium-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_medium_macroman/FunctionPro-Medium-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_medium_macroman/FunctionPro-Medium-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_medium_macroman/FunctionPro-Medium-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_medium_macroman/FunctionPro-Medium-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_medium_macroman/FunctionPro-Medium-webfont.svg#function_promedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+161-255, U+338-339, U+376, U+710, U+732, U+2019, U+201C-201E, U+8192-8202, U+8208-8212, U+8216-8218, U+8220-8222, U+8226, U+8230, U+8239, U+8249-8250, U+8287, U+8364, U+8482, U+9724, U+64257-64258, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: macroman */
+@font-face {
+    font-family: 'functionpro_mediumcondensed';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumcondensed_macroman/FunctionPro-Condensed-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumcondensed_macroman/FunctionPro-Condensed-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumcondensed_macroman/FunctionPro-Condensed-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumcondensed_macroman/FunctionPro-Condensed-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumcondensed_macroman/FunctionPro-Condensed-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumcondensed_macroman/FunctionPro-Condensed-webfont.svg#function_promedium_condensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+161-255, U+338-339, U+376, U+710, U+732, U+2019, U+201C-201E, U+8192-8202, U+8208-8212, U+8216-8218, U+8220-8222, U+8226, U+8230, U+8239, U+8249-8250, U+8287, U+8364, U+8482, U+9724, U+64257-64258, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: macroman */
+@font-face {
+    font-family: 'functionpro_mediumcondensedoblique';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumcondensedoblique_macroman/FunctionPro-CondensedOblique-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumcondensedoblique_macroman/FunctionPro-CondensedOblique-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumcondensedoblique_macroman/FunctionPro-CondensedOblique-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumcondensedoblique_macroman/FunctionPro-CondensedOblique-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumcondensedoblique_macroman/FunctionPro-CondensedOblique-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumcondensedoblique_macroman/FunctionPro-CondensedOblique-webfont.svg#function_proMdCnOb') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+161-255, U+338-339, U+376, U+710, U+732, U+2019, U+201C-201E, U+8192-8202, U+8208-8212, U+8216-8218, U+8220-8222, U+8226, U+8230, U+8239, U+8249-8250, U+8287, U+8364, U+8482, U+9724, U+64257-64258, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: macroman */
+@font-face {
+    font-family: 'functionpro_mediumoblique';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumoblique_macroman/FunctionPro-MediumOblique-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumoblique_macroman/FunctionPro-MediumOblique-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumoblique_macroman/FunctionPro-MediumOblique-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumoblique_macroman/FunctionPro-MediumOblique-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumoblique_macroman/FunctionPro-MediumOblique-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumoblique_macroman/FunctionPro-MediumOblique-webfont.svg#function_promedium_oblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+161-255, U+338-339, U+376, U+710, U+732, U+2019, U+201C-201E, U+8192-8202, U+8208-8212, U+8216-8218, U+8220-8222, U+8226, U+8230, U+8239, U+8249-8250, U+8287, U+8364, U+8482, U+9724, U+64257-64258, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: macroman */
+@font-face {
+    font-family: 'functionpro_mediumstencil';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumstencil_macroman/FunctionPro-Stencil-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumstencil_macroman/FunctionPro-Stencil-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumstencil_macroman/FunctionPro-Stencil-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumstencil_macroman/FunctionPro-Stencil-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumstencil_macroman/FunctionPro-Stencil-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/macroman/functionpro_mediumstencil_macroman/FunctionPro-Stencil-webfont.svg#function_promedium_stencil') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+161-255, U+338-339, U+376, U+710, U+732, U+2019, U+201C-201E, U+8192-8202, U+8208-8212, U+8216-8218, U+8220-8222, U+8226, U+8230, U+8239, U+8249-8250, U+8287, U+8364, U+8482, U+9724, U+64257-64258, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: spanish */
+@font-face {
+    font-family: 'functioncaps_medium';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functioncaps_medium_spanish/FunctionCaps-Medium-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functioncaps_medium_spanish/FunctionCaps-Medium-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functioncaps_medium_spanish/FunctionCaps-Medium-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functioncaps_medium_spanish/FunctionCaps-Medium-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functioncaps_medium_spanish/FunctionCaps-Medium-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functioncaps_medium_spanish/FunctionCaps-Medium-webfont.svg#function_capsmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+161-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+191, U+193, U+201, U+205, U+209, U+211, U+218, U+220, U+225, U+233, U+237, U+241, U+243, U+250, U+252, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: spanish */
+@font-face {
+    font-family: 'functionpro_medium';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_medium_spanish/FunctionPro-Medium-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_medium_spanish/FunctionPro-Medium-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_medium_spanish/FunctionPro-Medium-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_medium_spanish/FunctionPro-Medium-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_medium_spanish/FunctionPro-Medium-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_medium_spanish/FunctionPro-Medium-webfont.svg#function_promedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+161-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+191, U+193, U+201, U+205, U+209, U+211, U+218, U+220, U+225, U+233, U+237, U+241, U+243, U+250, U+252, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: spanish */
+@font-face {
+    font-family: 'functionpro_mediumcondensed';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumcondensed_spanish/FunctionPro-Condensed-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumcondensed_spanish/FunctionPro-Condensed-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumcondensed_spanish/FunctionPro-Condensed-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumcondensed_spanish/FunctionPro-Condensed-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumcondensed_spanish/FunctionPro-Condensed-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumcondensed_spanish/FunctionPro-Condensed-webfont.svg#function_promedium_condensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+161-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+191, U+193, U+201, U+205, U+209, U+211, U+218, U+220, U+225, U+233, U+237, U+241, U+243, U+250, U+252, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: spanish */
+@font-face {
+    font-family: 'functionpro_mediumcondensedoblique';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumcondensedoblique_spanish/FunctionPro-CondensedOblique-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumcondensedoblique_spanish/FunctionPro-CondensedOblique-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumcondensedoblique_spanish/FunctionPro-CondensedOblique-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumcondensedoblique_spanish/FunctionPro-CondensedOblique-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumcondensedoblique_spanish/FunctionPro-CondensedOblique-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumcondensedoblique_spanish/FunctionPro-CondensedOblique-webfont.svg#function_proMdCnOb') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+161-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+191, U+193, U+201, U+205, U+209, U+211, U+218, U+220, U+225, U+233, U+237, U+241, U+243, U+250, U+252, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: spanish */
+@font-face {
+    font-family: 'functionpro_mediumoblique';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumoblique_spanish/FunctionPro-MediumOblique-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumoblique_spanish/FunctionPro-MediumOblique-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumoblique_spanish/FunctionPro-MediumOblique-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumoblique_spanish/FunctionPro-MediumOblique-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumoblique_spanish/FunctionPro-MediumOblique-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumoblique_spanish/FunctionPro-MediumOblique-webfont.svg#function_promedium_oblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+161-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+191, U+193, U+201, U+205, U+209, U+211, U+218, U+220, U+225, U+233, U+237, U+241, U+243, U+250, U+252, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: spanish */
+@font-face {
+    font-family: 'functionpro_mediumstencil';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumstencil_spanish/FunctionPro-Stencil-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumstencil_spanish/FunctionPro-Stencil-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumstencil_spanish/FunctionPro-Stencil-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumstencil_spanish/FunctionPro-Stencil-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumstencil_spanish/FunctionPro-Stencil-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/spanish/functionpro_mediumstencil_spanish/FunctionPro-Stencil-webfont.svg#function_promedium_stencil') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+161-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+191, U+193, U+201, U+205, U+209, U+211, U+218, U+220, U+225, U+233, U+237, U+241, U+243, U+250, U+252, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: swedish */
+@font-face {
+    font-family: 'functioncaps_medium';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functioncaps_medium_swedish/FunctionCaps-Medium-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functioncaps_medium_swedish/FunctionCaps-Medium-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functioncaps_medium_swedish/FunctionCaps-Medium-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functioncaps_medium_swedish/FunctionCaps-Medium-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functioncaps_medium_swedish/FunctionCaps-Medium-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functioncaps_medium_swedish/FunctionCaps-Medium-webfont.svg#function_capsmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+192-193, U+196-197, U+201, U+203, U+214, U+220, U+224-225, U+228-229, U+233, U+235, U+246, U+252, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: swedish */
+@font-face {
+    font-family: 'functionpro_medium';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_medium_swedish/FunctionPro-Medium-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_medium_swedish/FunctionPro-Medium-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_medium_swedish/FunctionPro-Medium-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_medium_swedish/FunctionPro-Medium-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_medium_swedish/FunctionPro-Medium-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_medium_swedish/FunctionPro-Medium-webfont.svg#function_promedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+192-193, U+196-197, U+201, U+203, U+214, U+220, U+224-225, U+228-229, U+233, U+235, U+246, U+252, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: swedish */
+@font-face {
+    font-family: 'functionpro_mediumcondensed';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumcondensed_swedish/FunctionPro-Condensed-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumcondensed_swedish/FunctionPro-Condensed-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumcondensed_swedish/FunctionPro-Condensed-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumcondensed_swedish/FunctionPro-Condensed-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumcondensed_swedish/FunctionPro-Condensed-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumcondensed_swedish/FunctionPro-Condensed-webfont.svg#function_promedium_condensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+192-193, U+196-197, U+201, U+203, U+214, U+220, U+224-225, U+228-229, U+233, U+235, U+246, U+252, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: swedish */
+@font-face {
+    font-family: 'functionpro_mediumcondensedoblique';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumcondensedoblique_swedish/FunctionPro-CondensedOblique-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumcondensedoblique_swedish/FunctionPro-CondensedOblique-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumcondensedoblique_swedish/FunctionPro-CondensedOblique-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumcondensedoblique_swedish/FunctionPro-CondensedOblique-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumcondensedoblique_swedish/FunctionPro-CondensedOblique-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumcondensedoblique_swedish/FunctionPro-CondensedOblique-webfont.svg#function_proMdCnOb') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+192-193, U+196-197, U+201, U+203, U+214, U+220, U+224-225, U+228-229, U+233, U+235, U+246, U+252, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: swedish */
+@font-face {
+    font-family: 'functionpro_mediumoblique';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumoblique_swedish/FunctionPro-MediumOblique-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumoblique_swedish/FunctionPro-MediumOblique-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumoblique_swedish/FunctionPro-MediumOblique-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumoblique_swedish/FunctionPro-MediumOblique-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumoblique_swedish/FunctionPro-MediumOblique-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumoblique_swedish/FunctionPro-MediumOblique-webfont.svg#function_promedium_oblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+192-193, U+196-197, U+201, U+203, U+214, U+220, U+224-225, U+228-229, U+233, U+235, U+246, U+252, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: swedish */
+@font-face {
+    font-family: 'functionpro_mediumstencil';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumstencil_swedish/FunctionPro-Stencil-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumstencil_swedish/FunctionPro-Stencil-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumstencil_swedish/FunctionPro-Stencil-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumstencil_swedish/FunctionPro-Stencil-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumstencil_swedish/FunctionPro-Stencil-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/swedish/functionpro_mediumstencil_swedish/FunctionPro-Stencil-webfont.svg#function_promedium_stencil') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+192-193, U+196-197, U+201, U+203, U+214, U+220, U+224-225, U+228-229, U+233, U+235, U+246, U+252, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: turkish */
+@font-face {
+    font-family: 'functioncaps_medium';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functioncaps_medium_turkish/FunctionCaps-Medium-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functioncaps_medium_turkish/FunctionCaps-Medium-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functioncaps_medium_turkish/FunctionCaps-Medium-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functioncaps_medium_turkish/FunctionCaps-Medium-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functioncaps_medium_turkish/FunctionCaps-Medium-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functioncaps_medium_turkish/FunctionCaps-Medium-webfont.svg#function_capsmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+194, U+199, U+206, U+214, U+219-220, U+226, U+231, U+238, U+246, U+251-252, U+286-287, U+304-305, U+350-351, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: turkish */
+@font-face {
+    font-family: 'functionpro_medium';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_medium_turkish/FunctionPro-Medium-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_medium_turkish/FunctionPro-Medium-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_medium_turkish/FunctionPro-Medium-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_medium_turkish/FunctionPro-Medium-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_medium_turkish/FunctionPro-Medium-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_medium_turkish/FunctionPro-Medium-webfont.svg#function_promedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+194, U+199, U+206, U+214, U+219-220, U+226, U+231, U+238, U+246, U+251-252, U+286-287, U+304-305, U+350-351, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: turkish */
+@font-face {
+    font-family: 'functionpro_mediumcondensed';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumcondensed_turkish/FunctionPro-Condensed-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumcondensed_turkish/FunctionPro-Condensed-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumcondensed_turkish/FunctionPro-Condensed-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumcondensed_turkish/FunctionPro-Condensed-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumcondensed_turkish/FunctionPro-Condensed-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumcondensed_turkish/FunctionPro-Condensed-webfont.svg#function_promedium_condensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+194, U+199, U+206, U+214, U+219-220, U+226, U+231, U+238, U+246, U+251-252, U+286-287, U+304-305, U+350-351, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: turkish */
+@font-face {
+    font-family: 'functionpro_mediumcondensedoblique';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumcondensedoblique_turkish/FunctionPro-CondensedOblique-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumcondensedoblique_turkish/FunctionPro-CondensedOblique-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumcondensedoblique_turkish/FunctionPro-CondensedOblique-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumcondensedoblique_turkish/FunctionPro-CondensedOblique-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumcondensedoblique_turkish/FunctionPro-CondensedOblique-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumcondensedoblique_turkish/FunctionPro-CondensedOblique-webfont.svg#function_proMdCnOb') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+194, U+199, U+206, U+214, U+219-220, U+226, U+231, U+238, U+246, U+251-252, U+286-287, U+304-305, U+350-351, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: turkish */
+@font-face {
+    font-family: 'functionpro_mediumoblique';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumoblique_turkish/FunctionPro-MediumOblique-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumoblique_turkish/FunctionPro-MediumOblique-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumoblique_turkish/FunctionPro-MediumOblique-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumoblique_turkish/FunctionPro-MediumOblique-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumoblique_turkish/FunctionPro-MediumOblique-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumoblique_turkish/FunctionPro-MediumOblique-webfont.svg#function_promedium_oblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+194, U+199, U+206, U+214, U+219-220, U+226, U+231, U+238, U+246, U+251-252, U+286-287, U+304-305, U+350-351, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: turkish */
+@font-face {
+    font-family: 'functionpro_mediumstencil';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumstencil_turkish/FunctionPro-Stencil-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumstencil_turkish/FunctionPro-Stencil-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumstencil_turkish/FunctionPro-Stencil-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumstencil_turkish/FunctionPro-Stencil-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumstencil_turkish/FunctionPro-Stencil-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-medium/turkish/functionpro_mediumstencil_turkish/FunctionPro-Stencil-webfont.svg#function_promedium_stencil') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+162-163, U+165, U+168-169, U+171, U+174, U+180, U+184, U+187, U+194, U+199, U+206, U+214, U+219-220, U+226, U+231, U+238, U+246, U+251-252, U+286-287, U+304-305, U+350-351, U+710, U+730, U+732, U+2019, U+201C-201E, U+8211-8212, U+8216-8218, U+8220-8222, U+8230, U+8249-8250, U+8364, U+8482, U+FFEB;
+}
+

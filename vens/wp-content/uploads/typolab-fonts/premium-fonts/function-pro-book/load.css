@@ -1,0 +1,39 @@
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      FontSite Inc.
+ * License URL: https://www.fontspring.com/licenses/fontsite/webfont
+ *
+ *
+ */
+
+/* Subset: macroman */
+@font-face {
+    font-family: 'functionpro_book';
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-book/macroman/functionpro_book_macroman/FunctionPro-Book-webfont.eot');
+    src: url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-book/macroman/functionpro_book_macroman/FunctionPro-Book-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-book/macroman/functionpro_book_macroman/FunctionPro-Book-webfont.woff2') format('woff2'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-book/macroman/functionpro_book_macroman/FunctionPro-Book-webfont.woff') format('woff'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-book/macroman/functionpro_book_macroman/FunctionPro-Book-webfont.ttf') format('truetype'),
+         url('/wp-content/uploads/typolab-fonts/premium-fonts/function-pro-book/macroman/functionpro_book_macroman/FunctionPro-Book-webfont.svg#function_probook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+	unicode-range: U+20-126, U+161-255, U+338-339, U+376, U+710, U+732, U+2019, U+201C-201E, U+8192-8202, U+8208-8212, U+8216-8218, U+8220-8222, U+8226, U+8230, U+8239, U+8249-8250, U+8287, U+8364, U+8482, U+9724, U+64257-64258, U+FFEB;
+}
+
